@@ -1,0 +1,102 @@
+@media screen and (max-width: 767.98px){
+
+    *{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-size: 0.8em;
+}
+
+header{
+    background-color: white;
+}
+header a{
+    color: gray!important;
+}
+nav{
+   margin: 0 1em;
+}
+
+.brand-logo{
+    color:#0072d3!important;
+}
+.fa-search{
+    color:black;
+}
+
+#image1{
+    height: 17em;
+    object-fit: cover;
+}
+#image2{
+    height: 39em;
+    object-fit: cover;
+}
+.a3{
+    width: 70%;
+    justify-content: center;
+    text-align: center;
+    margin-left: 2em;
+    font-size: 1.1em;
+}
+
+.a34 img{
+    top:6.6em;
+    left:-1em;
+}
+.a35 img{
+    top: 18em;
+    left:-1em;
+}
+.news1, .news2, .news3{
+margin: 1.5em 1em;
+
+}
+
+.news1, .news2 {
+    height: 27em;
+}
+.col-lg-4{
+    margin:0.5em;
+}
+
+
+.a1{
+ /*   display: flex;*/
+    align-items: center;
+    width: 15em;
+    height: 2.5em;
+}
+.a2{
+    width: 1.875em;
+    height: 0.1875em;
+    background-color: #0072d3;
+    margin-right:1.0625em;
+}
+
+.btn-index{
+    margin-right:30%;
+}
+.categ, .lang{
+    margin-left:-1.5em;
+}
+/*submit button*/
+#z2{
+top: 70%;
+left:77.6%;
+}
+
+
+
+
+
+
+/*Our-busines*/
+/*.list ul{
+    list-style-type: none;
+}
+*/
+}
+
